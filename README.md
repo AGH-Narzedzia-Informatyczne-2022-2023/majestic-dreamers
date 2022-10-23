@@ -1,2 +1,3 @@
-# majestic-dreamers-snake
+# Majestric Dreamers
+
 Creating snake with Python, how ironic?
