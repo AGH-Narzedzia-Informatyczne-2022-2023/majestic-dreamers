@@ -22,7 +22,7 @@ make start # Run application in development mode
 
 ```sh
 make format # Auto-format code in the whole repository
-make push MSG="BREAKING CHANGE/feat/patch: message" # Auto-format code and immediately push all changes to the remote
+make push MSG="BREAKING CHANGE/feat/patch/dev/docs/style/chore: message" # Auto-format code and immediately push all changes to the remote
 ```
 
 ## About
