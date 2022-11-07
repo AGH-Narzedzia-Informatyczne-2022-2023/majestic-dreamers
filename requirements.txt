@@ -1,0 +1,6 @@
+# This file contains other dependencies required for a fully functional development environment.
+# Other dependencies, i.e. those vital to the project must be defined in the setup.py file
+# Add new dependencies like this:
+# black==22.10.0
+
+black==22.10.0
