@@ -2,7 +2,7 @@
 
 Creating snake with Python, how ironic?
 
-As a team of young and ambitious IT students we decided to create a brand new version of a classic and beloved game - snake. It will include many brand new functions that original snake didn't have, such as collecting apples. The graphics will also be improved. Instead of a stark original one, we will use beautiful pixel art for our game.  
+As a team of young and ambitious IT students we decided to create a brand new version of a classic and beloved game - snake. It will include many brand new features that the original snake didn't have, such as collecting apples. The graphics will also be improved. Instead of the dull and uninteresting appearance of the original game, we will use some beautiful pixel art for our version of it.
 
 ## Development
 
