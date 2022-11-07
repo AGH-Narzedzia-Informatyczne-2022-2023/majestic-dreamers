@@ -2,7 +2,6 @@
 
 Creating snake with Python, how ironic?
 
-
 ## Development
 
 ### Prerequisities
