@@ -27,7 +27,7 @@ make push MSG="BREAKING CHANGE/feat/patch/dev/docs/style/chore: message" # Auto-
 ```
 
 ## About
-
+Our Snake is based on the idea of combining this classic game with rougelike. Eat more to become bigger, defeat enemies and infinite dungeons in your quest for power and glory
 ### Authors
 
 - Artur Wojciechowski (**[Artwojciech](https://github.com/Artwojciech)**)
