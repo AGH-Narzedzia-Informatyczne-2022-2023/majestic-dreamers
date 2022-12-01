@@ -1,4 +1,3 @@
 12345
 kod w pythoniee:
 print("HeLlO WoRlD1")
-//ciekawe czy zadziała
