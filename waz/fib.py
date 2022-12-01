@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def fib_iter1(n):
+    print("Ta liczba fib: ")
     pwyrazy = (0, 1)
     a, b = pwyrazy
     while n > 1:
