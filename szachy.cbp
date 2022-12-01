@@ -23,9 +23,9 @@
 				<Compiler>
 					<Add option="-O2" />
 				</Compiler>
-				<Linker>
+				<Compiler>
 					<Add option="-s" />
-				</Linker>
+				</Compiler>
 			</Target>
 		</Build>
 		<Compiler>
