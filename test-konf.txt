@@ -1,3 +1,3 @@
 12345
 kod w pythoniee:
-print("HeLlO WoRlD1")
+print("HeLlO WoRlD1") // tu wstaw przykry komentarz
