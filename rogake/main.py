@@ -1,4 +1,4 @@
-import pygam
+import pygameon
 import time
 import random
 
