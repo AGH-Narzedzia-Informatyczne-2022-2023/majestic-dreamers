@@ -1,4 +1,2 @@
-12345
-kod w pythoniee:
-print("HeLlO WoRlD1")  //kom dal zasiegow
+//kom dal zasiegow
 print("To naprawde jest 11. proba")
