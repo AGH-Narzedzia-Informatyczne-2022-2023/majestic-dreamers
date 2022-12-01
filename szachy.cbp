@@ -2,7 +2,7 @@ barteker changes here
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="szaszki" />
+		<Option title="szachy" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
