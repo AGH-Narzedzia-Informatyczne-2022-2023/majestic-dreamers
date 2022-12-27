@@ -1,4 +1,0 @@
-kod w pythoniee:
-print("HeLlO WoRlD1") // tu wstaw przykry komentarz
-//kom dal zasiegow
-print("To naprawde jest 11. proba")
