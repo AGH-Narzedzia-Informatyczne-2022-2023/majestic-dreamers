@@ -2,32 +2,36 @@
 
 Creating snake with Python, how ironic?
 
-As a team of young and ambitious IT students we decided to create a brand new version of a classic and beloved game - snake. It will include many brand new features that the original snake didn't have, such as collecting apples. The graphics will also be improved. Instead of the dull and uninteresting appearance of the original game, we will use some beautiful pixel art for our version of it.
+As a team of young and ambitious IT students, we decided to create a brand new version of a classic and beloved game - snake. The game will include numerous brand new features that the original snake did not have, such as collecting apples. The graphics will also be improved. Instead of the dull and uninteresting appearance of the original game, we will use some beautiful pixel art for our version of it.
 
-## Development
+Our Snake is based on the idea of combining this classic game with roguelike. Eat more to become bigger, defeat enemies and infinite dungeons in your quest for power and glory.
 
-### Prerequisities
+## Getting Started
+
+### Prerequisites
 
 - Python
 - Python PIP
 - GNU Make
 
-### Getting Started
+### Running The Application
+
+In order to run the game, please install all the dependencies listed as [prerequisites](#prerequisites).
+Then follow up with these commands:
 
 ```sh
 make install # Install all PyPI dependencies and additional development requirements
 make start # Run application in development mode
 ```
 
-### Other commands
+## About
+
+### Other Useful Commands
 
 ```sh
 make format # Auto-format code in the whole repository
-make push MSG="BREAKING CHANGE/feat/patch/dev/docs/style/chore: message" # Auto-format code and immediately push all changes to the remote
 ```
 
-## About
-Our Snake is based on the idea of combining this classic game with rougelike. Eat more to become bigger, defeat enemies and infinite dungeons in your quest for power and glory
 ### Authors
 
 - Artur Wojciechowski (**[Artwojciech](https://github.com/Artwojciech)**)
